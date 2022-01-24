@@ -1,0 +1,11 @@
+  {
+    "name": "METAVAX",
+    "website": "https://metavax.site/",
+    "description": "METAVAX is the most trusted currency in the metaverse universe..",
+    "explorer": "https://bscscan.com/address/0xF94A22B49843BfB49B3e6a5c072557B3b8D977dE",
+    "type": "BEP20",
+    "symbol": "METAVAX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF94A22B49843BfB49B3e6a5c072557B3b8D977dE"
+}
